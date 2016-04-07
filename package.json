@@ -1,0 +1,22 @@
+{
+  "name": "node-redis-hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othman853/node-redis-hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/othman853/node-redis-hands-on/issues"
+  },
+  "homepage": "https://github.com/othman853/node-redis-hands-on#readme",
+  "dependencies": {
+    "node-redis": "^0.1.7"
+  }
+}
